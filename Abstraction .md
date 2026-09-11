@@ -56,3 +56,7 @@ print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' metho
 
 ## Result
 Thus, the python program is executed successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
