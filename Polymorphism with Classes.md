@@ -48,3 +48,7 @@ for func in (obj_beans,obj_mango):
 
 ## Result
 Thus,the program is executed successfully
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
