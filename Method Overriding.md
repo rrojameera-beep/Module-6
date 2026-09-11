@@ -36,3 +36,7 @@ obj_hammerhead.type()
 
 ## RESULT
 Thus,the program is executed successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
